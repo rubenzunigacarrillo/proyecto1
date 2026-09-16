@@ -1,3 +1,5 @@
+import './node_modules/bootstrap/dist/js/bootstrap.min.js';
+
 window.addEventListener("load", function(){
     function example1() {
         let elements = document.getElementsByClassName("main-text");
